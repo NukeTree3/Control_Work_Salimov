@@ -1,4 +1,4 @@
-﻿string[] find(string[] array_input)
+string[] find(string[] array_input)
 {
     string[] array_output = new string[array_input.Length];
     int o = 0;
